@@ -1,4 +1,4 @@
-![lightning!](/Users/zhengyansheng/Desktop/工作台/gitbook/g/imgs/lightning!.png)
+![lightning!](./imgs/lightning.png)
 
 
 
