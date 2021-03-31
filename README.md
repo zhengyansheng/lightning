@@ -58,11 +58,15 @@
 
 ## 如何使用它
 
+## 功能交流
+
+<img src="./imgs/lightning-wechat.png" alt="lightning-wechat" style="zoom:50%;" />
+
 ## License
 
 ## 问题
 
-### 1. 为什么后端要有 Python 和 Go 两种语言？
+### 为什么后端要有 Python 和 Go 两种语言？
 
 起初的原因是5位成员中，对编码语言喜爱不同。
 
