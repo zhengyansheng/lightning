@@ -1,4 +1,4 @@
-![lightning!](./imgs/lightning.png)
+<img src="./imgs/lightning.png" alt="lightning!" style="zoom:50%;" />
 
 
 
@@ -38,7 +38,7 @@
 
 ## 模块架构
 
-![ops-2021-arch](./imgs/ops-2021-arch.png)
+<img src="./imgs/ops-2021-arch.png" alt="ops-2021-arch" style="zoom:50%;" />
 
 ## 项目地址
 
@@ -60,7 +60,7 @@
 
 ## 功能交流
 
-<img src="./imgs/lightning-wechat.png" alt="lightning-wechat" style="zoom:50%;" />
+<img src="./imgs/lightning-wechat.png" alt="lightning-wechat" style="zoom: 33%;" />
 
 ## License
 
