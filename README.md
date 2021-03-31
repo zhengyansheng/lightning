@@ -64,6 +64,8 @@
 
 ## License
 
+[GPL 3.0](./LICENSE)
+
 ## 问题
 
 ### 为什么后端要有 Python 和 Go 两种语言？
