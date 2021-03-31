@@ -44,37 +44,13 @@
 
 ## 安装
 
-### lightning-web
+`Lightning` 项目有三部分组成，1个前端 + 2个后端, 分别对应三个仓库，每个仓库中都有与之对应的项目介绍和安装流程，请知悉。
 
-项目的 `WEB` 前端， 采用 主流的 Vue + Eelement-ui 来实现。
-
-[lightning-web 仓库](https://github.com/zhengyansheng/lightning-fe)
-
-
-
-### lightning-ops
-
-以 `Python` 语言为主，采用 `django-restframework` 框架实现后端 *API* 模块开发。
-
-- 服务树
-- 作业平台
-- CMDB
-- API 权限系统
-
-[lightning-ops 仓库](https://github.com/zhengyansheng/lightning-ops)
+- [前端](https://github.com/zhengyansheng/lightning-fe) 
+- [Python后端](https://github.com/zhengyansheng/lightning-ops)
+- [Go后端](https://github.com/zhengyansheng/lightning-go)
 
 
-
-### lightning-go
-
-以 `Go` 语言为主，采用 **斗鱼** 微服务框架`Jupiter` 实现后端 *API* 模块开发。
-
-- 多云管理
-- 消息中心
-- 定时任务
-- 任务系统
-
-[lightning-go 仓库](https://github.com/zhengyansheng/lightning-go)
 
 ## 如何使用它
 
