@@ -50,7 +50,7 @@
 
 `Lightning` 项目有三部分组成，1个前端 + 2个后端, 分别对应三个仓库，每个仓库中都有与之对应的项目介绍和安装流程，请知悉。
 
-- [前端](https://github.com/zhengyansheng/lightning-fe) 
+- [WEB前端](https://github.com/zhengyansheng/lightning-fe) 
 - [Python后端](https://github.com/zhengyansheng/lightning-ops)
 - [Go后端](https://github.com/zhengyansheng/lightning-go)
 
@@ -60,7 +60,7 @@
 
 ## 功能交流
 
-<img src="./imgs/lightning-wechat.png" alt="lightning-wechat" style="zoom: 33%;" />
+<img src="./imgs/lightning-wechat.png" alt="lightning-wechat" style="zoom: 25%;" />
 
 ## License
 
