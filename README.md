@@ -64,7 +64,7 @@
 
 **群已满，无法自动扫码入群，扫个人微信单独发邀请入群，备注 lightning**
 
-<img src="/Users/zhengyansheng/go/src/github.com/zhengyansheng/lightning/imgs/WechatIMG40.png" alt="WechatIMG40" style="zoom:33%;" />
+<img src="./imgs/WechatIMG40.png" alt="WechatIMG40" style="zoom:33%;" />
 
 ## License
 
