@@ -73,6 +73,12 @@
 
 <img src="./imgs/lightnning.png" alt="lightnning" style="zoom:33%;" />
 
+## 成为项目贡献者
+> 如果你对这个项目感兴趣，可以加入我们，一起做有兴趣的事情。
+
+- 备注口令: join lightning 
+<img src="./imgs/lightnning.png" alt="lightnning" style="zoom:33%;" />
+
 ## License
 
 [GPL 3.0](./LICENSE)
