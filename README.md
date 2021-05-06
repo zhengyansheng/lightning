@@ -47,6 +47,13 @@
 开源只是一个这个产品的开始，2021年我们会继续大力持续迭代。
 
 
+**项目核心成员**
+- [世成]()
+- [胜才]()
+- [嘉亮]()
+- [海泉]()
+- [满柏]()
+- [帅波]()
 
 ## 模块架构
 
@@ -76,6 +83,12 @@
 
 **群已满，无法自动扫码入群，扫个人微信单独发邀请入群，备注 lightning**
 
+<img src="./imgs/lightnning.png" alt="lightnning" style="zoom:33%;" />
+
+## 成为项目贡献者
+> 如果你对这个项目感兴趣，可以加入我们，一起做有兴趣的事情。
+
+- 备注口令: join lightning 
 <img src="./imgs/lightnning.png" alt="lightnning" style="zoom:33%;" />
 
 ## License
